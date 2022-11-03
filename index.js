@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-console.log(chalk.blue('helllo world'));
+console.log(chalk.blue('today is wednesday'));
 
 
 
